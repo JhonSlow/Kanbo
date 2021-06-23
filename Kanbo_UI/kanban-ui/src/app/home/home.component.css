@@ -1,0 +1,44 @@
+.main-card {
+    margin-top: 6px;
+    background-color: #949AAC;
+    border-radius: 4px;
+    padding: 2px 2px 4px 2px;
+    
+}
+
+.kanban-title {
+    font-weight: semi-bold;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 25px;
+    
+}
+
+.mat-flat-button{
+    margin-top: 0px;
+    margin-right: 2px;
+    margin-bottom: 8px;
+    padding: 0px 0px 0px 0px;
+}
+
+.mat-list-item{
+    background-color:#ccc;
+    border-radius: 4px;
+    border: solid 4px #ccc;
+    box-sizing: border-box;
+    margin-top: 0px;
+    margin-right: 2px;
+    margin-bottom: 6px;
+    padding: 0px 0px 0px 0px;
+    text-align: center;
+}
+
+.button-del{
+    margin-left: 1350px;
+    position: absolute;
+}
+
+.go-to-tasks{
+    padding: 0px 1380px 0px 0px;
+    position: relative;
+}
